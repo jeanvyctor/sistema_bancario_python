@@ -91,3 +91,5 @@ while True:
                   VOLTE SEMPRE!
                                       ''')
         break
+    else:
+        print("Opção inválida. Por favor, escolha uma opção entre 1 e 4. ")
